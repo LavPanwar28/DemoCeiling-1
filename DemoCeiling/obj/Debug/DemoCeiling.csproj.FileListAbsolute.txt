@@ -1,0 +1,6 @@
+C:\Users\Lavpa\source\repos\DemoCeiling\DemoCeiling\bin\Debug\DemoCeiling.dll
+C:\Users\Lavpa\source\repos\DemoCeiling\DemoCeiling\bin\Debug\DemoCeiling.pdb
+C:\Users\Lavpa\source\repos\DemoCeiling\DemoCeiling\obj\Debug\DemoCeiling.csproj.AssemblyReference.cache
+C:\Users\Lavpa\source\repos\DemoCeiling\DemoCeiling\obj\Debug\DemoCeiling.csproj.CoreCompileInputs.cache
+C:\Users\Lavpa\source\repos\DemoCeiling\DemoCeiling\obj\Debug\DemoCeiling.dll
+C:\Users\Lavpa\source\repos\DemoCeiling\DemoCeiling\obj\Debug\DemoCeiling.pdb
